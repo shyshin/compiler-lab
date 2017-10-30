@@ -1,0 +1,5 @@
+4
+S ABD
+A aA
+B bB
+D d
